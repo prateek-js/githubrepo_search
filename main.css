@@ -1,0 +1,9 @@
+.search-container{
+    display: flex;
+}
+.search-box {
+    width: 70%;
+}
+.select-box {
+    width: 30%;
+}
